@@ -1,2 +1,2 @@
 SUMINISTROS
-Gestión de Suministros con aplicación NoseJS
+Gestión de Suministros con aplicación NodeJS
