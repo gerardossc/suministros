@@ -1,0 +1,21 @@
+{
+  "name": "suministros",
+  "version": "1.0.0",
+  "description": "HR GTS Suministros",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": ["Suministros","GTS"],
+  "author": "Gerardo Sánchez",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
